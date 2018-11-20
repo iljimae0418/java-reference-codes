@@ -1,2 +1,2 @@
 # java-reference-codes
-random java code
+Java code for personal reference
